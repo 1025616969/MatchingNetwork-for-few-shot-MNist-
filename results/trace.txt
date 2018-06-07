@@ -1,0 +1,5 @@
+epoch: 0 训练结束：avg_loss:1.2505 , avg_acc:0.7224 , validation_acc:0.8065
+epoch: 1 训练结束：avg_loss:1.1258 , avg_acc:0.8364 , validation_acc:0.8124
+epoch: 2 训练结束：avg_loss:1.0901 , avg_acc:0.8636 , validation_acc:0.8320
+epoch: 3 训练结束：avg_loss:1.0644 , avg_acc:0.8884 , validation_acc:0.8449
+epoch: 4 训练结束：avg_loss:1.0482 , avg_acc:0.9060 , validation_acc:0.8713

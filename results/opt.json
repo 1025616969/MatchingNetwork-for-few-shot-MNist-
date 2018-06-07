@@ -1,0 +1,1 @@
+{"data_way": 5, "data_shot": 1, "data_query": 5, "data_test_way": 5, "data_test_shot": 1, "data_test_query": 15, "data_train_episodes": 100, "data_test_episodes": 100, "train_epoches": 10, "train_optim_method": "Adam", "train_learningrate": 0.001, "train_decay_every": 20, "data_root": "data/omniglot", "data_cuda": false, "log_file": "results", "run_mode": "train_val"}
